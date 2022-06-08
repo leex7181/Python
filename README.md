@@ -1,2 +1,2 @@
 # Python
-Python Portfolio for Data Scientist 
+Python Portfolio for Data Scientist/ Analyst
